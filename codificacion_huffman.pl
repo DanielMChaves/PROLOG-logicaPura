@@ -78,7 +78,7 @@ recorrerSubArbolAmpl(tree(Element,Left,Right),X,AAmp) :-
 	AAmp = tree(Element,Zl,Zr).
 
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  %       Funciones Auxiliares - Parte II        %
+  %             Funciones Auxiliares             %
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
   % devuelvePAr/2: Relacion que nos da el valor

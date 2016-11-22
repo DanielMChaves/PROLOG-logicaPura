@@ -33,7 +33,7 @@ doss([],[o]).
 doss([_|Xs],[_|Ys]):- doss(Xs,Ys).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%       Funciones Auxiliares - Parte I         %
+%             Funciones Auxiliares             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % prefix/2: Relacion que es cierta si la lista del
